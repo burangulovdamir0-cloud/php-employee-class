@@ -1,7 +1,7 @@
 <?php
 
 
-require_once 'classes' . DIRECTORY_SEPARATOR . 'Employee.php';
+require_once 'classes' . 'Employee.php';
 
 echo "<h2>Тестирование класса Employee</h2>";
 
